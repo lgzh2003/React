@@ -1,6 +1,6 @@
-##To Do app with ReactJs
+## To Do app with ReactJs
      
-###Description
+### Description
 This is a light project that makes a simple to do app with ReactJs.                           
 This app allows users to :              
 - create todo item                 
@@ -9,7 +9,7 @@ This app allows users to :
 - delete existing todo item                 
 - change the status of the todo item(**red** means not yet done, and **green** means done)             
          
-###Dependencies           
+### Dependencies           
 ```
 "dependencies": {
     "react": "^15.5.4",
@@ -26,5 +26,5 @@ This app allows users to :
   }
 ```                  
            
-###Contributing        
+### Contributing        
              
