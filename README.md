@@ -20,7 +20,7 @@ This repository contains my learning of React and also a light project.
                
 ## Light project(Todos app with ReactJs)       
 ### Description
-This is a light project that makes a simple to do app with ReactJs.                           
+This is a light project that makes a simple todos app with ReactJs.                           
 This app allows users to :              
 - create todo item                 
 - modify todo list                   
