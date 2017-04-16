@@ -1,13 +1,13 @@
 {
-  "name": "projectHere",
+  "name": "todo app",
   "version": "1.0.0",
-  "description": "This is a light project that makes a simple to do app with ReactJs.                            This app allows users to :               - create todo item                  - modify todo list                    - edit existing todo item               - delete existing todo item                  - change the status of the todo item(**red** means not yet done, and **green** means done)",
+  "description": "This is a light project that makes a simple to do app with ReactJs. This app allows users to : - create todo item  - modify todo list - edit existing todo item - delete existing todo item - change the status of the todo item(**red** means not yet done, and **green** means done)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Keyu Chen",
   "license": "ISC",
   "dependencies": {
     "react": "^15.5.4",
