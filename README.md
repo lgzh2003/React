@@ -14,7 +14,7 @@ This repository contains my learning of React and also a light project.
 1. [Use this.refs.myInput to find DOM node](7-findDOMnode.html)                                                          
 1. [Use likebutton example to explain state and handleClick](8-likeButtonExample.html)                                
 1. [Use handleChange in form](9-formExample.html)                                   
-1. [Use componentDidMount control component lifecyle setInterval to change color opacity](10-component lifecycle.html)                    
+1. [Use componentDidMount control component lifecyle setInterval opacity](10-component lifecycle.html)                       
 1. [Use Ajax](11-gist.html)                
 1. [Use JSON file to display important content](12-mostStarsProjectIngithub.html)                      
                
