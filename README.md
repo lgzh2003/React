@@ -49,4 +49,5 @@ See the license please click the [link](projectHere/LICENSE)
 ```                  
            
 ### Contributing         
-
+This is [an small project](projectHere) that implements ReactJs on Node.js, I learnt ReactJs step by step first and created examples for what I learnt. Then, I created this Todos Web App to have an full implements of ReactJs.                   
+Although the project is light weight, the process of learning process is really meaningful for me to have a deep dive into ReactJs for the whole semester. 
