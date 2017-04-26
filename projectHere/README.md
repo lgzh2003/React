@@ -31,7 +31,9 @@ This is an small project that implements ReactJs on Node.js, I learnt ReactJs st
 Although the project is light weight, the process of learning process is really meaningful for me to have a deep dive into ReactJs for the whole semester.           
        
 ### Implementing CI/CD          
-Here, I use Javis CI.![](https://travis-ci.org/lgzh2003/React.svg?branch=master)                   
+Here, I use travis CI.![](https://travis-ci.org/lgzh2003/React.svg?branch=master)           
+      
+![](travis.png)          
         
 Step 1:                              
 ```                
